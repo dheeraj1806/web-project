@@ -1,0 +1,68 @@
+body
+{
+  font-family: "Montserrat";
+}
+.image{
+  border-radius: 10px;
+}
+.navbar-brand
+{
+
+  color: white;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.navbar
+{
+  margin:0 0;
+  padding-bottom: 1.5rem;
+
+}
+.nav-item
+{
+  padding: 0 1.5rem;
+}
+.nav-link
+{
+  font-family: "Montserrat-light";
+  font-size: 1rem;
+}
+
+.Download-button
+{
+  margin: 5% 3% 5% 0;
+}
+
+.profileicon{
+  font-size:  40px;
+}
+.middle{
+  text-align:center;
+}
+
+.dropdown-content{
+  width:200px;
+  overflow: auto;
+  text-align: center;
+}
+.dropdown:hover>.dropdown-menu{
+  display: block;
+}
+
+.my-dropdown-toggle::after {
+    content: none;
+}
+/* footer section */
+#footer
+{
+  padding: 7% 15%;
+  text-align: center;
+  margin-bottom: 10%;
+}
+.social-icons
+{
+  margin:10% 2% 0 2%;
+  font-size: 3rem;
+  margin-bottom: 5%;
+}
